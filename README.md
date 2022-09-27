@@ -1,5 +1,4 @@
-# Budget-Manager
-
+>>>
 Start test 1
 Choose your action:
 1) Add income
@@ -702,3 +701,4 @@ Choose your action:
 > 0
 
 Bye!
+>>>
